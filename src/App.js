@@ -120,7 +120,7 @@ class App extends React.Component {
         <Container>
           <br />
           <Button color="success" onClick={() => this.mostrarModalInsertar()}>
-            Crear
+            Add
           </Button>
           <br />
           <br />
@@ -339,13 +339,13 @@ class App extends React.Component {
 
           <ModalFooter>
             <Button color="primary" onClick={() => this.insertar(this.state.form)}>
-              Insertar
+              Add user
             </Button>
             <Button
               className="btn btn-danger"
               onClick={() => this.cerrarModalInsertar()}
             >
-              Cancelar
+              Cancel
             </Button>
           </ModalFooter>
         </Modal>
