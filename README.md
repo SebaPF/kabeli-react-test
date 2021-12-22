@@ -28,3 +28,6 @@ Este te redireccionará hacia un localhost:3000 u otro (en caso de tener ese pue
 ## Comentarios 🎁
 
 Gracias por su tiempo, y que este proyecto haya sido de su agrado.
+
+* Aquí se puede ver el "Diagrama de Solución" del proyecto :
+[diagrama-solucion.pdf](https://github.com/SebaPF/kabeli-react-test/files/7760153/diagrama-solucion.pdf)
