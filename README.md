@@ -1,5 +1,5 @@
-# Kabali React Test Front-end
-Esta sección contiene Front-end.
+# Kabali React Test (Front-end)
+
 ## Comenzando 🚀
 
 Puedes descargar el proyecto en el Botón verde mediante un RAR o por linea de comandos en tu PC con el comando:
